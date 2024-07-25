@@ -37,7 +37,7 @@
 </div>
 
 
-### Main skills:
+### Habilidades principais:
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
@@ -65,7 +65,7 @@
 <br> 
 
 
-<h2 align="left"> Studying in this moment: </h2>
+<h2 align="left"> Estudando no momento: </h2>
 
 
 <div align="left"> 
@@ -89,25 +89,23 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="centre"><b>Contador de visitas</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRaymer-Coelho%2FRaymer-Coelho&s=50&c=0062ff&bg=00000000&no=7&ff=digi&tb=Visits%3A+&ta=" alt="visits"" /></p> 
 <br>
 </div>
 
 
 <div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
+<h3> Nunca desista perante a uma dificuldade</h3>
 <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
 </div>
 
 <br>
 <br> 
 
 
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+<img width=100% src="https://github.com/user-attachments/assets/68e7820a-3a41-44be-8db5-f946026c2ca4"/>
 
 
 
