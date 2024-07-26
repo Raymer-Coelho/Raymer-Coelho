@@ -1,8 +1,13 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/ea4f835e-a6f7-4a46-a4a7-b1aabc763cdb"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/fd02637c-6f7e-4523-aafb-5f2248faa143"/>
 <br>
-<br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=700&color=2435B8&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Raymer;tenho+29+anos;Sou+desenvolvedor+de+Software+;Bem+Vindo%3A)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=700&color=2435B8&center=true&vCenter=true&width=800&height=100&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Raymer;tenho+29+anos;Sou+desenvolvedor+de+Software+;+++Bem+Vindo%3A+++)](https://git.io/typing-svg)
+
+</div>
+
 
 <br>
 <br>
