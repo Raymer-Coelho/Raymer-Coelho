@@ -38,46 +38,41 @@
 
 ### Habilidades principais:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
+<div align="left">
+  <img align="left" src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />  
 </div>
 
+###
+
+</div>
 <br>
 <br> 
 <br>
 <br>
 <br>
-<br> 
-
-
 <h2 align="left"> Estudando no momento: </h2>
 
-
-<div align="left"> 
-
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-
-<img align="left"  height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-
+<div align="left">
+  <img align="left" src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img align="left" src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  /> 
+  <img align="left" src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />  
 </div>
 
 
