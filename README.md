@@ -105,11 +105,7 @@
 
 <br>
 <br> 
-<div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/418f017f-9632-4505-b064-260edd85620c" />
-</div>
-<br>
-<br>
+
 
 <img width=100% src="https://github.com/user-attachments/assets/68e7820a-3a41-44be-8db5-f946026c2ca4"/>
 
