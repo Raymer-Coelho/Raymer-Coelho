@@ -1,5 +1,10 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/fd02637c-6f7e-4523-aafb-5f2248faa143"/>
-<img width="50%" height="auto" style="margin-bottom: 50px;" src="https://github.com/user-attachments/assets/418f017f-9632-4505-b064-260edd85620c"/>
+
+###
+</div>
+
+###
+
 
 
 <br>
@@ -100,7 +105,11 @@
 
 <br>
 <br> 
-
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/418f017f-9632-4505-b064-260edd85620c" />
+</div>
+<br>
+<br>
 
 <img width=100% src="https://github.com/user-attachments/assets/68e7820a-3a41-44be-8db5-f946026c2ca4"/>
 
