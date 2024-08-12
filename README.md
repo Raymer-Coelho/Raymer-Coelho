@@ -64,6 +64,9 @@
   <img width="12" />
   <img align="left" src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />  
 </div>
 
